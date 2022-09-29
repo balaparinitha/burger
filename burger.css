@@ -1,0 +1,95 @@
+header{
+    position: fixed;
+    display: block;
+    align-items: center;
+}
+.box img{
+    padding-top: 20%;
+
+}
+span{
+    color: rgb(184,196,21);
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-top: 7%;
+    margin-left: 10%;
+    color: white;
+}
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 150%;
+}
+.navbar li{
+    color:beige;
+    text-decoration: none;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style: none;
+    display: inline;
+    margin-left:8%;
+}
+.navbar{
+    display: inline;
+}
+ul{
+    display: inline;
+}
+.box{
+    width:80px;
+    height:350px;
+    background-color: transparent;
+    color: black;
+
+}
+.box1{
+    width: 80px;
+    height:500px;
+    background-color: rgb(184,196,21);
+
+    color:black;
+    margin:block;
+
+    text-align: center;
+}
+.hoveritem li a{
+    display: inline;
+    margin-left: 50px;
+    text-decoration: none;
+    list-style: none;
+    color:azure;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hoveritem a:hover{
+    border: 2px solid rgb(144, 181, 24);
+
+}
+.box2 a{
+    color:white;
+    background-color: antiquewhite;
+    width: 20px;
+    height: 20px;
+    text-decoration: none;
+    list-style: none;
+    width: 20px;
+    height: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    padding-left:70px 30px 70px 30px;
+    margin-left: 10%;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+}
+body{
+    background-image: url(https://media.istockphoto.com/photos/fresh-tasty-burger-picture-id495204032?k=20&m=495204032&s=612x612&w=0&h=x44AnT8kHv-apqnG9t1ILwf2sIr4uq14CUB7MBaiuOI=);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
